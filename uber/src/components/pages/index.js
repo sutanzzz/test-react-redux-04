@@ -61,13 +61,7 @@ function PaperSheet(props) {
         </Grid>
         <Grid item md>
         <Paper className={classes.root} elevation={1}>
-        
-        <CardMedia
-          className={classes.media}
-          image="http://www.brazilmonitor.com/wp-content/uploads/2017/04/uber.jpg"
-          title="Contemplative Reptile"
-        />
-        
+          
           </Paper>
         </Grid>
       </Grid>
